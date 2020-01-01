@@ -1,5 +1,13 @@
 # Team 11 Google Africa Developer Scholarship Phase II - Android Challenge I
 
+
+<p float="left">
+  <img src="download/welcome.png" width="200" />
+  <img src="download/category.png" width="200" /> 
+  <img src="download/modal.png" width="200" />
+  <img src="download/trivia.png" width="200" />
+</p>
+
 ## ❄️ Motivation:
   #### We built this app for a team challenge on Animations for android, designated to us by Andela Learning Community 4 - Google Africa Developer Scholarship. 
 
