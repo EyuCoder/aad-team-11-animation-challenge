@@ -3,7 +3,7 @@
 
 <p float="left">
   <img src="download/welcome.png" width="200" />
-  <img src="download/category.png" width="200" /> 
+  <img src="download/catagory.png" width="200" /> 
   <img src="download/modal.png" width="200" />
   <img src="download/trivia.png" width="200" />
 </p>
